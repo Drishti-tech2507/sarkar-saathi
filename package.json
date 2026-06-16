@@ -23,7 +23,10 @@
     "nodemailer": "^7.0.13",
     "react-speech-recognition": "^4.0.1",
     "resend": "^6.12.4",
-    "typescript": "^6.0.3"
+    "typescript": "^6.0.3",
+    "bcryptjs": "^2.4.3",
+"jsonwebtoken": "^9.0.2",
+"mongoose": "^8.x.x"
   },
   "devDependencies": {
     "autoprefixer": "^10.5.0",
