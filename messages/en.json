@@ -1,0 +1,34 @@
+{
+    "navbar": {
+      "home": "Home",
+      "about": "About",
+      "schemes": "Schemes",
+      "benefits": "Benefits",
+      "login": "Login"
+    },
+  
+    "hero": {
+      "tagline": "AI Powered Welfare Discovery",
+  
+      "title1": "Every Benefit.",
+      "title2": "One Simple Platform.",
+  
+      "description": "Discover every government scheme, subsidy, scholarship and welfare benefit your family is eligible for.",
+  
+      "findBenefits": "Find My Benefits",
+  
+      "watchDemo": "Watch Demo",
+  
+      "aiSaathi": "AI Saathi",
+  
+      "scholarship": "PM Scholarship Found",
+  
+      "ayushman": "Ayushman Bharat Eligible",
+  
+      "widow": "Widow Pension Found",
+  
+      "lpg": "LPG Subsidy Available",
+  
+      "benefitScore": "Benefit Score"
+    }
+  }

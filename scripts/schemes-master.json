@@ -1,0 +1,25 @@
+{
+    "name": "PM Kisan",
+    "description": "Income support for farmer families.",
+    "category": "Farmer",
+    "benefit": "₹6000 per year",
+    "ministry": "Ministry of Agriculture",
+    "state": ["All"],
+    "eligibility": {
+      "occupation": ["Farmer"],
+      "ageMin": 18,
+      "ageMax": 120
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "keywords": [
+      "farmer",
+      "agriculture",
+      "income"
+    ],
+    "officialWebsite": "https://pmkisan.gov.in",
+    "applyLink": "https://pmkisan.gov.in",
+    "active": true
+  }
