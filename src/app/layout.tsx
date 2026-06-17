@@ -1,12 +1,9 @@
 import "./globals.css";
-
-import { ThemeProvider }
-from "@/components/ThemeProvider";
+import { ThemeProvider } from "@/components/ThemeProvider";
 
 export const metadata = {
   title: "Sarkar Saathi",
-  description:
-    "AI-powered government scheme discovery platform",
+  description: "AI-powered government scheme discovery platform",
 };
 
 export default function RootLayout({
@@ -15,10 +12,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html
-      lang="en"
-      suppressHydrationWarning
-    >
+    <html lang="en" suppressHydrationWarning>
       <body>
         <ThemeProvider>
           {children}
