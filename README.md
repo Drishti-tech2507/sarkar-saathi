@@ -1,4 +1,4 @@
-🇮🇳 Sarkar Saathi
+Sarkar Saathi
 
 Every Benefit. One Simple Platform.
 
