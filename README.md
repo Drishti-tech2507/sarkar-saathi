@@ -174,6 +174,8 @@ AWAAZ (आवाज़) – Government Schemes & Entitlements
 
 Sarkar Saathi directly addresses the challenge of improving access to government welfare programs by making scheme discovery simple, personalized, multilingual, and AI-powered.
 
+Accessible link: https://sarkar-saathi-6.onrender.com/
+
 ⸻
 
  Vision
